@@ -4,3 +4,8 @@ node_modules/
 .env
 dist/
 *.pyc
+
+# generated data, not source
+chroma_db/
+cloned_repos/
+chunks.json
